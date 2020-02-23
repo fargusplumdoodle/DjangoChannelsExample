@@ -1,0 +1,16 @@
+*.swp
+.idea
+__pychache__/
+db.sqlite3
+icebreak/__pycache__/
+api/__pycache__/
+api/management/commands/__pycache__/
+api/migrations/__pycache__/
+static
+icebreak/environment.py
+kubernetes/secrets/
+benchmarks/env.py
+benchmarks/__pycache__/
+test/__pycache__/
+api/management/__pycache__/
+api/migrations/
