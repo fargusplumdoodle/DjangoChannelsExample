@@ -18,3 +18,5 @@ Then open 2 seperate browser windows to:
  
 
 Install firefox-geckodriver for tests to work
+
+[This is the tutorial this was made from](https://channels.readthedocs.io/en/latest/tutorial/index.html)
